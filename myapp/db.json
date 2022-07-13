@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "email": "gregreg",
+      "password": "edges",
+      "id": 2
+    },
+    {
+      "email": "rsuru",
+      "password": "rdusr",
+      "id": 3
+    },
+    {
+      "email": "srysru",
+      "password": "rsusu",
+      "id": 4
+    }
+  ]
+}
